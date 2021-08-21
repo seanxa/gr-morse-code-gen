@@ -5,7 +5,7 @@ These flowgraphs were developed with GNU Radio version 3.8.1.0, and have been te
 
 If you have GNU Radio version 3.7, you can recreate the flowgraph and copy the `epy_block_0_0.py` file into an Embedded Python block to create the "Morse code vector source" block.
 
-## Versions
+## Versions  modified by sean for git test on repo side
 
 * v1.0.0.0
   * The initial release had a simple low-pass filter and used a speed setting method which limited it to factors of 48.
